@@ -63,7 +63,7 @@ git checkout release/azure-ai-evaluation/1.0.0
     ```
 
 ### Data
-You can use the datasets in the `data` directory. Some datasets have column mappings, some are conversations, some omit certain columns, etc. You can use these datasets to test the evaluators.
+You can find some test datasets in the `Data` directory of the Azure AI Project: https://ai.azure.com/build/data/quality-eval-bug-bash-data-latest/3/details?wsid=/subscriptions/fac34303-435d-4486-8c3f-7094d82a0b60/resourceGroups/rg-cliu/providers/Microsoft.MachineLearningServices/workspaces/ignite-eval-project-eastus2&tid=72f988bf-86f1-41af-91ab-2d7cd011db47. Some datasets target individual datasets, some have column mappings, some are conversations, some omit certain columns, etc. You can use these datasets to test the evaluators.
 
 ### Report Bugs
 
